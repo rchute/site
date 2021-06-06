@@ -1,24 +1,22 @@
 # Ryan Chute
 
-Experienced engineer delivering robust and scalable distributed technology solutions to solve critical business needs. Comprehensive understanding of scalable systems engineering, open source components, service-oriented design principles and cloud-based technologies. A strategic business partner and development team leader who enjoys creating value through technology.
+## Senior Director, Engineering, Connexity 2014 – Present
 
-## Experience
+Technical Lead / Engineering Manager for various teams including Traffic Acquisition, Publisher Services, Merchant Services, and ShopYourLikes.com, an influencer focused publisher experience. Core focus is click / conversion tracking and expanding merchant reach through our extensive SEM platform.
 
-### Senior Director, Connexity 2014 – Present
-
-Technical lead for various teams including Traffic Acquisition, Publisher Services, Merchant Services, and ShopYourLikes.com, an influencer focused publisher experience. Core focus is click / conversion tracking and expanding merchant reach through our extensive SEM platform.
-
-- Lead engineer for PLA platform, responsible for publishing over 1B offers daily across Google/Bing/Facebook/Yahoo/Snap/Criteo/Outbrain (volume daily: 750M via FTP, 250M via API); also support non-product based SEM campaigns, such as text ads, social, and domain parking
-- Lead engineer in migration of on-prem applications to cloud; responsible for migrating hundreds of processes to Google Cloud Platform (GCP)
+- Architect in migration of on-prem applications to cloud; responsible for defining pattern / practices for migrating services/jobs to Google Cloud Platform (GCP)
+- Designed / managed development of automated bidding platform for Traffic Acquisition; optimized operator effieciency by 30% 
+- Mangage and tech lead for Traffic Acquisition platform for Product Listing and Remarketing Ads; responsible for publishing over 1B offers daily across Google/Bing/Facebook/Yahoo/Snap/Criteo/Outbrain (volume daily: 750M via FTP, 250M via API). Also support non-product based SEM campaigns, such as text ads, social, and domain parking
 - Support automated campaign cost collection, performance reporting, and bid optimization
-- Provide Spring-based campaign management services and React-based tools for TA operations to scale / manage SEM campaigns (thousands of campaigns with total budget exceeding $4M+ monthly)
+- Provide campaign management services and React-based tools for TA operations to scale / manage SEM campaigns (thousands of campaigns with total budget exceeding $4M+ monthly)
 - Domain expert in redirect and ROI tracking; responsible for design / rollout of next generation conversion tracking tag
 - Technical lead of internal start-up initiative, ShopYourLikes.com, designed to tap into the reach of social media influencers, using React/Redux/Spring/Cassandra/Kafka/MySQL.
 - Modernized merchant billing platform using profiles and increase PCI compliance
 - Instrumented monitoring using various time series data technologies
 - Responsible for recruitment/hiring of new engineers; have had success with internships converting to full time, as well as traditional hiring.
+- Core involvement in GDRP, CCPA, and other compliance and cookie governance solutions
 
-### Senior Software Engineer, Connexity 2010 – 2014
+## Senior Software Engineer, Connexity 2010 – 2014
 
 Software Engineer for comparison shopping sites utilizing a technology stack of Java web-services.
 
@@ -34,7 +32,7 @@ Software Engineer for comparison shopping sites utilizing a technology stack of 
 - Analyze usage statistics to define SLAs for individual services.
 - Developed extensive knowlegde of Spring, Maven, Jenkins, as well as many other open source development frameworks.
 
-### Information Architect, J. Paul Getty Museum 2009 - 2010
+## Information Architect, J. Paul Getty Museum 2009 - 2010
 
 Information Architect tasked to lead efforts in restructuring the way information is stored, systems are integrated, and data is published across the Museum.
 
@@ -46,7 +44,7 @@ Information Architect tasked to lead efforts in restructuring the way informatio
 - Implemented detailed logging of user activity and methods to evaluate aggregate usage.
 - Technical lead on Trust-wide Resource Discovery Project; designed and developed a proof of concept central Solr implementation and JQuery/Ajax-based user interface to search Getty-wide scholarly materials. Developed generalized indexing model to accommodate disparate datasets and needs.
 
-### Software Engineer, Los Alamos National Laboratory 2005 - 2009
+## Software Engineer, Los Alamos National Laboratory 2005 - 2009
 
 Software Engineer for various open source and internal Java/JEE development projects intended to address scalable information infrastructures, interoperability, and digital preservation.
 
